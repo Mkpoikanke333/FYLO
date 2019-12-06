@@ -1,0 +1,185 @@
+.flex{
+    flex-direction: row;
+    display: flex;
+    padding: 30px 50px;
+}
+.text{
+    margin-left: auto;
+    padding: 10px;
+}
+.button li{
+    color: white;
+    display: inline;
+    margin: 25px; 
+}
+.photo{
+    margin-left: 400px;
+}
+.text2{
+    text-align:center;
+    margin-right:480px;
+    color: white;
+    padding-top: 20px;
+}
+.get{
+    background-color:rgb(60, 171, 223);
+    border-radius: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+    border: none;
+}
+.middle{
+    text-align: center;
+    flex-direction: row;
+    display: flex;
+    color: white;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.security{
+    padding-left: 40px;
+}
+.access{
+    padding-right: 40px;
+}
+.middle2{
+    text-align: center;
+    flex-direction: row;
+    display: flex;
+    color: white;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.real{
+    padding-right:5%; 
+}
+.store{
+    padding-left: 5%;
+}
+.center1{
+    flex-direction: row;
+    display: flex;
+    color: white;
+    margin-left: 20%;
+    margin-top: 10%;
+    text-align:initial
+}
+.image{
+    margin-right: 50px
+}
+.stay{
+    width: 650px;
+    align-self: center 
+}
+.founders{
+    flex-direction: row;
+    display: flex;
+    color: white;
+    /* margin-left: 20%; */
+    justify-content: center;
+}
+.satish{
+    border-radius: 5px;
+    background-color: rgb(7, 7, 47);
+    margin-left: 50px;
+    /* padding-left: 50px;  */
+    padding: 20px;
+}
+.image2{
+    border-radius: 50%;
+    width: 10%;
+    height: 10%;
+    float: left;
+}
+.bruce{
+    border-radius:4%;
+    background-color: rgb(7, 7, 47); 
+    margin-left: 40px;
+    padding: 20px;
+}
+.image3{
+    border-radius: 50%;
+    width: 10%;
+    height: 10%;
+    float: left;
+}
+.iva{
+    border-radius: 5%;
+    background-color: rgb(7, 7, 47);
+    margin-left: 40px;
+    padding: 20px;
+}
+.image4{
+    border-radius: 50%;
+    width: 10%;
+    height: 10%;
+    float: left;
+}
+.arrow{
+    margin-left: 130px; 
+}
+.footer{
+    flex-direction: row;
+    background-color: black;
+    display: flex;
+    margin-top: -70px;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.lorem{
+    margin-left: 40px;
+    padding: 40px;
+}
+.location{
+    display: inline;
+    color: white;
+    float: left;
+    padding-right: 10px;
+    margin-top: 40px;
+}
+.phone{
+    color: white;
+    margin-left: 10px;
+    margin-top: 180px;
+}
+.number{
+    display: inline;
+}
+.mail{
+    display: inline;  
+}
+.about{
+    color: white;
+    margin-top: 180px;
+    margin-left: 40px;
+}
+.contact{
+    color: white;
+    margin-top:180px;
+    margin-left: 40px; 
+}
+.icons{
+    color: white;
+    margin-top: 180px;
+    margin-left: 70px;
+}
+.gets{
+    background-color: rgb(6, 6, 36);
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    position: relative;
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: white
+}
+.buttona{
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+}
